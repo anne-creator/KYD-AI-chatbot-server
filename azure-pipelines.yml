@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: 'f577c9b7-2396-455a-8a49-de479b524c1a'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'KYD-AI-chatbot-server'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'Production'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
