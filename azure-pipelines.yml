@@ -8,7 +8,7 @@ trigger:
 
 variables:
   # Azure Resource Manager connection created during pipeline creation
-  azureServiceConnectionId: '07a19287-d1bc-4096-a5e3-62b6f5283d97'
+  azureServiceConnectionId: 'f577c9b7-2396-455a-8a49-de479b524c1a'
 
   # Web app name
   webAppName: 'KYD-AI-chatbot-server'
