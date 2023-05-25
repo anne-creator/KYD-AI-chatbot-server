@@ -11,7 +11,7 @@ variables:
   azureServiceConnectionId: '591a5e57-1cf6-4bbf-aef4-9350d3677147'
 
   # Web app name
-  webAppName: 'KYD AI chatbot'
+  webAppName: 'KYD-AI-chatbot-server'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
