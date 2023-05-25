@@ -41,8 +41,6 @@ stages:
     - script: |
         python -m venv antenv
         source antenv/bin/activate
-        python -m pip3 install --upgrade pip
-        pip install setup
         pip install -r Pipfile
       workingDirectory: $(projectRoot)
       displayName: "Install requirements"
